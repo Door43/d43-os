@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[os:home|Door43 (os)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-os|d43-os repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-os/archive/master.zip|d43-os.zip]]
+
+**Recent Changes**
+{{changes>ns = os}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/os|Ethnologue data]]
+
